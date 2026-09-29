@@ -14,3 +14,4 @@
 # WARNING
 
 ## This only for Raspberry Pi
+* Do this on terminal pls thanks!
